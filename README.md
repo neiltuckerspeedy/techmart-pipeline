@@ -1,3 +1,5 @@
+
+![Open Issues](https://img.shields.io/github/issues/neiltuckerspeedy/techmart-pipeline)
 # TechMart Data Pipeline
 
 ![Teaching](https://img.shields.io/badge/module-DE5M4-blue)
